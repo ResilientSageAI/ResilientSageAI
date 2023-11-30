@@ -1,7 +1,7 @@
 # Hi there, I'm Shivazi Biswas 👋
 
 ## 🏢 Professional Experience
-- *Senior Machine Learning Engineer, Cefalo Bangladesh Ltd.*
+- **Senior Machine Learning Engineer, Cefalo Bangladesh Ltd.**
 - *Previous Roles*
   - Machine Learning Engineer, Cefalo Bangladesh Ltd.
   - Senior Machine Learning Engineer, Cramstack Ltd.
@@ -27,8 +27,6 @@
 - 
 ## 🤝 Connect with Me
 - Email: [shivazi.biswas@gmail.com](mailto:shivazi.biswas@gmail.com)
-- LinkedIn: [Shivazi Biswas](https://www.linkedin.com/in/shivazi-biswas)
-- ResearchGate:[Shivazi-Biswas](https://www.researchgate.net/profile/Shivazi-Biswas)
 
 Feel free to browse my repositories and don't hesitate to reach out for collaborations or queries!
 
