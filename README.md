@@ -21,17 +21,6 @@
   - [A Hybrid Approach for Android Malicious Software Classification](https://www.worldscientific.com/doi/10.1142/S2972370123300029)
   - [Breast Cancer Detection Based on Simplified Deep Learning Technique With Histopathological Image Using BreaKHis Database](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023RS007761)
 
-## 🏢 Professional Experience
-- **Senior Machine Learning Engineer, Cefalo Bangladesh Ltd. (Mar. 2022 - Present)**
-  - Building AI-Assistant for NTB Norway handling over 600 million images.
-  - Developed a blur detection system using deep neural networks.
-  - Implemented a hybrid model for image clustering.
-- **Previous Roles**
-  - Machine Learning Engineer, Cefalo Bangladesh Ltd.
-  - Senior Machine Learning Engineer, Cramstack Ltd.
-  - Senior Machine Learning Researcher, NybSys Ltd.
-  - Research roles at ICT Innovation Lab IU Bangladesh and CVII Lab Islamic University Bangladesh.
-
 ## 🎓 Education
 - M.Sc. in Information & Communication Engineering, Islamic University Bangladesh
 - B.Sc. in Information & Communication Engineering, Islamic University Bangladesh
