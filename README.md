@@ -1,8 +1,5 @@
 # Hi there, I'm Shivazi Biswas 👋
 
-## 🚀 About Me
-I'm a Senior Machine Learning Engineer with a flair for creating cutting-edge AI solutions. Currently, I'm pushing the boundaries of AI at Cefalo Bangladesh Ltd., focusing on AI-assisted systems and optimizing machine learning processes.
-
 ## 🏢 Professional Experience
 - **Senior Machine Learning Engineer, Cefalo Bangladesh Ltd. (Mar. 2022 - Present)**
   - Building AI-Assistant for NTB Norway handling over 600 million images.
@@ -33,6 +30,7 @@ I'm a Senior Machine Learning Engineer with a flair for creating cutting-edge AI
 ## 🤝 Connect with Me
 - Email: [shivazi.biswas@gmail.com](mailto:shivazi.biswas@gmail.com)
 - LinkedIn: [Shivazi Biswas](https://www.linkedin.com/in/shivazi-biswas)
+- ResearchGate:[Shivazi-Biswas](https://www.researchgate.net/profile/Shivazi-Biswas)
 
 Feel free to browse my repositories and don't hesitate to reach out for collaborations or queries!
 
