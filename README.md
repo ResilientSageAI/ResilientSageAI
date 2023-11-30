@@ -27,8 +27,8 @@
 
 ## 📬 Let's Connect
 - Email: [shivazi.biswas@gmail.com](mailto:shivazi.biswas@gmail.com).
-- Keen on collaborating in AI and machine learning projects!
-
+- Keen on collaborating in AI and machine learning RnD projects!
+  
 Discover my repositories for insights into my work. Looking forward to 
 collaborating!
 
